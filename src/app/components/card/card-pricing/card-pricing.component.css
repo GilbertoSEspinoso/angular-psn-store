@@ -1,0 +1,23 @@
+.card-pricing__container {
+  display: flex;
+  flex-direction: column;
+
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 400;
+}
+.card-pricing__title {
+  margin-top: 3px;
+}
+.pre-order {
+  font-size: 0.556rem;
+  text-transform: uppercase;
+  opacity: 0.8;
+}
+.card-pricing__value__name {
+  font-size: 0.875rem;
+}
+.card-pricing__value__price {
+  margin-top: 8px;
+  font-size: 1rem;
+  opacity: 0.8;
+}

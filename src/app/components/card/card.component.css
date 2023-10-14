@@ -1,8 +1,11 @@
 .card__container {
+  display: flex;
+  flex-direction: column;
+  width: 20rem;
+}
+.card__container__img {
   position: relative;
   border-radius: 6px;
-  width: 303px;
-  height: 303px;
 
   display: flex;
   overflow: hidden;

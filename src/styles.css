@@ -6,11 +6,5 @@
   box-sizing: border-box;
 }
 body {
-  background: rgb(2, 0, 36);
-  background: linear-gradient(
-    90deg,
-    rgba(0, 60, 165, 1) 0%,
-    rgba(0, 133, 202, 1) 45%,
-    rgba(0, 181, 235, 1) 100%
-  );
+  background: #ffffff;
 }

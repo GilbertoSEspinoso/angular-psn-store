@@ -1,0 +1,14 @@
+.card-label__container {
+  position: absolute;
+  bottom: 15px;
+  right: 0;
+}
+.card-label__content {
+  background-color: #0070cc;
+  padding: 0px 35px;
+  height: 35px;
+
+  color: #ffffff;
+  font-size: 1.275rem;
+  font-family: "Segoe UI", sans-serif;
+}
